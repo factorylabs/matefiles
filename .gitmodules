@@ -1,0 +1,132 @@
+[submodule "Pristine Copy/Bundles/ActionScript 3.tmbundle"]
+	path = Pristine Copy/Bundles/ActionScript 3.tmbundle
+	url = https://github.com/simongregory/actionscript3-tmbundle.git
+[submodule "Pristine Copy/Bundles/Ant.tmbundle"]
+	path = Pristine Copy/Bundles/Ant.tmbundle
+	url = https://github.com/simongregory/ant.tmbundle.git
+[submodule "Pristine Copy/Bundles/AppleScript.tmbundle"]
+	path = Pristine Copy/Bundles/AppleScript.tmbundle
+	url = https://github.com/textmate/applescript.tmbundle.git
+[submodule "Pristine Copy/Bundles/Bundle Development.tmbundle"]
+	path = Pristine Copy/Bundles/Bundle Development.tmbundle
+	url = https://github.com/textmate/bundle-development.tmbundle.git
+[submodule "Pristine Copy/Bundles/C.tmbundle"]
+	path = Pristine Copy/Bundles/C.tmbundle
+	url = https://github.com/textmate/c.tmbundle.git
+[submodule "Pristine Copy/Bundles/Changes.tmbundle"]
+	path = Pristine Copy/Bundles/Changes.tmbundle
+	url = https://github.com/rtmfd/changes-tmbundle.git
+[submodule "Pristine Copy/Bundles/CoffeeScript.tmbundle"]
+	path = Pristine Copy/Bundles/CoffeeScript.tmbundle
+	url = https://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "Pristine Copy/Bundles/Copy as RTF.tmbundle"]
+	path = Pristine Copy/Bundles/Copy as RTF.tmbundle
+	url = https://github.com/drnic/copy-as-rtf-tmbundle.git
+[submodule "Pristine Copy/Bundles/Cucumber.tmbundle"]
+	path = Pristine Copy/Bundles/Cucumber.tmbundle
+	url = https://github.com/aslakhellesoy/cucumber-tmbundle.git
+[submodule "Pristine Copy/Bundles/Git.tmbundle"]
+	path = Pristine Copy/Bundles/Git.tmbundle
+	url = https://github.com/jcf/git-tmbundle.git
+[submodule "Pristine Copy/Bundles/GitHub.tmbundle"]
+	path = Pristine Copy/Bundles/GitHub.tmbundle
+	url = https://github.com/drnic/github-tmbundle.git
+[submodule "Pristine Copy/Bundles/JSON.tmbundle"]
+	path = Pristine Copy/Bundles/JSON.tmbundle
+	url = https://github.com/textmate/json.tmbundle.git
+[submodule "Pristine Copy/Bundles/Jade.tmbundle"]
+	path = Pristine Copy/Bundles/Jade.tmbundle
+	url = https://github.com/miksago/jade-tmbundle.git
+[submodule "Pristine Copy/Bundles/Jasmine.tmbundle"]
+	path = Pristine Copy/Bundles/Jasmine.tmbundle
+	url = https://github.com/pivotal/jasmine-tmbundle.git
+[submodule "Pristine Copy/Bundles/JavaScript Prototype & Script_aculo_us.tmbundle"]
+	path = Pristine Copy/Bundles/JavaScript Prototype & Script_aculo_us.tmbundle
+	url = https://github.com/textmate/javascript-prototype-and-script.aculo.us.tmbundle.git
+[submodule "Pristine Copy/Bundles/JavaScript jQuery.tmbundle"]
+	path = Pristine Copy/Bundles/JavaScript jQuery.tmbundle
+	url = https://github.com/kswedberg/jquery-tmbundle.git
+[submodule "Pristine Copy/Bundles/JavaScript node.tmbundle"]
+	path = Pristine Copy/Bundles/JavaScript node.tmbundle
+	url = https://github.com/visionmedia/node.tmbundle.git
+[submodule "Pristine Copy/Bundles/LaTeX.tmbundle"]
+	path = Pristine Copy/Bundles/LaTeX.tmbundle
+	url = https://github.com/textmate/latex.tmbundle.git
+[submodule "Pristine Copy/Bundles/Make.tmbundle"]
+	path = Pristine Copy/Bundles/Make.tmbundle
+	url = https://github.com/textmate/make.tmbundle.git
+[submodule "Pristine Copy/Bundles/Man Pages.tmbundle"]
+	path = Pristine Copy/Bundles/Man Pages.tmbundle
+	url = https://github.com/textmate/man-pages.tmbundle.git
+[submodule "Pristine Copy/Bundles/Markdown.tmbundle"]
+	path = Pristine Copy/Bundles/Markdown.tmbundle
+	url = https://github.com/fletcher/markdown.tmbundle.git
+[submodule "Pristine Copy/Bundles/Objective-C.tmbundle"]
+	path = Pristine Copy/Bundles/Objective-C.tmbundle
+	url = https://github.com/textmate/objective-c.tmbundle.git
+[submodule "Pristine Copy/Bundles/PHP.tmbundle"]
+	path = Pristine Copy/Bundles/PHP.tmbundle
+	url = https://github.com/textmate/php.tmbundle.git
+[submodule "Pristine Copy/Bundles/Processing.tmbundle"]
+	path = Pristine Copy/Bundles/Processing.tmbundle
+	url = https://github.com/textmate/processing.tmbundle.git
+[submodule "Pristine Copy/Bundles/Python.tmbundle"]
+	path = Pristine Copy/Bundles/Python.tmbundle
+	url = https://github.com/textmate/python.tmbundle.git
+[submodule "Pristine Copy/Bundles/RSpec.tmbundle"]
+	path = Pristine Copy/Bundles/RSpec.tmbundle
+	url = https://github.com/rspec/rspec-tmbundle.git
+[submodule "Pristine Copy/Bundles/Ruby on Rails.tmbundle"]
+	path = Pristine Copy/Bundles/Ruby on Rails.tmbundle
+	url = https://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "Pristine Copy/Bundles/Ruby-Haml.tmbundle"]
+	path = Pristine Copy/Bundles/Ruby-Haml.tmbundle
+	url = https://github.com/mattpolito/ruby-haml.tmbundle.git
+[submodule "Pristine Copy/Bundles/Ruby.tmbundle"]
+	path = Pristine Copy/Bundles/Ruby.tmbundle
+	url = https://github.com/drnic/ruby-tmbundle.git
+[submodule "Pristine Copy/Bundles/SASS.tmbundle"]
+	path = Pristine Copy/Bundles/SASS.tmbundle
+	url = https://github.com/seaofclouds/sass-textmate-bundle.git
+[submodule "Pristine Copy/Bundles/SCSS.tmbundle"]
+	path = Pristine Copy/Bundles/SCSS.tmbundle
+	url = https://github.com/chriseppstein/SCSS.tmbundle.git
+[submodule "Pristine Copy/Bundles/Scala.tmbundle"]
+	path = Pristine Copy/Bundles/Scala.tmbundle
+	url = https://github.com/mads379/scala.tmbundle.git
+[submodule "Pristine Copy/Bundles/Shell Script.tmbundle"]
+	path = Pristine Copy/Bundles/Shell Script.tmbundle
+	url = https://github.com/textmate/shellscript.tmbundle.git
+[submodule "Pristine Copy/Bundles/Subversion.tmbundle"]
+	path = Pristine Copy/Bundles/Subversion.tmbundle
+	url = https://github.com/textmate/subversion.tmbundle.git
+[submodule "Pristine Copy/Bundles/TODO.tmbundle"]
+	path = Pristine Copy/Bundles/TODO.tmbundle
+	url = https://github.com/textmate/todo.tmbundle.git
+[submodule "Pristine Copy/Bundles/TextMate.tmbundle"]
+	path = Pristine Copy/Bundles/TextMate.tmbundle
+	url = https://github.com/textmate/textmate.tmbundle.git
+[submodule "Pristine Copy/Bundles/Transmit.tmbundle"]
+	path = Pristine Copy/Bundles/Transmit.tmbundle
+	url = https://github.com/textmate/transmit.tmbundle.git
+[submodule "Pristine Copy/Bundles/Webrat.tmbundle"]
+	path = Pristine Copy/Bundles/Webrat.tmbundle
+	url = https://github.com/bmabey/webrat-tmbundle.git
+[submodule "Pristine Copy/Bundles/XML.tmbundle"]
+	path = Pristine Copy/Bundles/XML.tmbundle
+	url = https://github.com/textmate/xml.tmbundle.git
+[submodule "Pristine Copy/Bundles/Xcode.tmbundle"]
+	path = Pristine Copy/Bundles/Xcode.tmbundle
+	url = https://github.com/textmate/xcode.tmbundle.git
+[submodule "Pristine Copy/Bundles/mCSS.tmbundle"]
+	path = Pristine Copy/Bundles/mCSS.tmbundle
+	url = https://github.com/minimaldesign/mCSS.tmbundle.git
+[submodule "Pristine Copy/Bundles/mHTML.tmbundle"]
+	path = Pristine Copy/Bundles/mHTML.tmbundle
+	url = https://github.com/minimaldesign/mHTML.tmbundle.git
+[submodule "Pristine Copy/Bundles/JavaScript NodeLint.tmbundle"]
+	path = Pristine Copy/Bundles/JavaScript NodeLint.tmbundle
+	url = https://github.com/mkitt/nodelint.tmbundle.git
+[submodule "Support/nodelint-config"]
+	path = Support/nodelint-config
+	url = https://github.com/factorylabs/nodelint-config.git
