@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string># run gjslint on the current file and output as a tool tip summary
+"$TM_BUNDLE_SUPPORT/gjslint" --unix_mode --strict --nojsdoc --nosummary "$TM_FILEPATH" | grep Found
+</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>@s</string>
+	<key>name</key>
+	<string>gjslint summary</string>
+	<key>output</key>
+	<string>showAsTooltip</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>D9C81C3A-7F5E-4EB4-9C5A-C7F333CF1709</string>
+</dict>
+</plist>
