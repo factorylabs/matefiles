@@ -124,9 +124,3 @@
 [submodule "Pristine Copy/Bundles/mHTML.tmbundle"]
 	path = Pristine Copy/Bundles/mHTML.tmbundle
 	url = https://github.com/minimaldesign/mHTML.tmbundle.git
-[submodule "Pristine Copy/Bundles/JavaScript NodeLint.tmbundle"]
-	path = Pristine Copy/Bundles/JavaScript NodeLint.tmbundle
-	url = https://github.com/mkitt/nodelint.tmbundle.git
-[submodule "Support/nodelint-config"]
-	path = Support/nodelint-config
-	url = https://github.com/factorylabs/nodelint-config.git
