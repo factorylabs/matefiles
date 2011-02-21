@@ -25,7 +25,6 @@ Before you move on, fire up TextMate and go to `Preferences -> Advanced -> Shell
     PATH :: Whatever lives in your environment path (type echo $PATH in Terminal and paste in here)
     TM_GIT :: /usr/local/bin/git
     TM_RUBY :: /Users/<username>/.rvm/bin/textmate_ruby
-    TM_NODELINT_CONFIG :: /Users/<username>/Library/Application Support/TextMate/Support/nodelint-config/config.js
 
 *Don't forget this step!*
 
