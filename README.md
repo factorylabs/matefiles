@@ -108,6 +108,15 @@ A few notes for future reference about working with `git submodules` taken from 
    3. Run `git rm --cached path_to_submodule` (no trailing slash)
 
 
+## Requirements
+
+Requires [node](http://nodejs.org/), [npm](http://npmjs.org/) and [jshint](http://jshint.com/) installed on your system for JavaScript validation. Check those sites for more information.
+
+    brew install node
+    curl http://npmjs.org/install.sh | sh
+    npm install jshint
+
+
 ## License and Contributions ##
 
 All licensing for the Bundles should be found on their respective repositories. This repo is only a means to quickly install and track a TextMate configuration. While contributions are welcome, you're probably better off forking and tuning it to your own machine. Better yet switch to Vim.
