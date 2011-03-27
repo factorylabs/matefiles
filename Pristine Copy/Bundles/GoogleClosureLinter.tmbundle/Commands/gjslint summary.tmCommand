@@ -10,8 +10,6 @@
 </string>
 	<key>input</key>
 	<string>none</string>
-	<key>keyEquivalent</key>
-	<string>@s</string>
 	<key>name</key>
 	<string>gjslint summary</string>
 	<key>output</key>
